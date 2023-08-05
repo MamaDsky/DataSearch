@@ -1,7 +1,7 @@
 
 # Data Search
 
-simple project made with HTML, CSS, JS, and PHP programming languages. This project will work by displaying all student data and will filter student data which will be written in the input field and the data will appear based on the keywords written in the input field
+Simple project made with HTML, CSS, JS, and PHP programming languages. This project will work by displaying all student data and will filter student data which will be written in the input field and the data will appear based on the keywords written in the input field
 
 
 ## Authors
@@ -15,9 +15,8 @@ simple project made with HTML, CSS, JS, and PHP programming languages. This proj
 
 
 
-
 ## 🚀 About Me
-I'm a full stack developer...
+I am a student in high school who has an interest in the programming world and is trying to develop skills and experience. The languages ​​I have learned are JS,PHP,C,Python . I will continue to develop my skills and knowledge until I feel satisfied, it seems like it will take a very long time because I am a person who is not easily satisfied with my achievements.
 
 
 ## Support
